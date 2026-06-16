@@ -112,3 +112,8 @@ if __name__ == "__main__":
         target_dir = input("Enter the path to the folder you want to organize: ").strip()
     
     organize_files(target_dir)
+## Maintainer
+This repository is actively maintained. New scripts and improvements are added regularly.
+
+## How to contribute
+Feel free to open an issue or submit a pull request with new useful scripts!
